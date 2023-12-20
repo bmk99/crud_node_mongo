@@ -7,3 +7,5 @@ If you want to learn how the project is developed. You can visit https://www.you
 ### API Features
 
 The application can create, read, update and delete data, for example: products, in a database. 
+
+-- replace the mongodb uri
